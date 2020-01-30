@@ -1,28 +1,28 @@
-def using_includ   true,false
-   array.include? "true"
+def using_include(array, element)
+   array.include? element
   #true 
 end
 
-def using_sort  "false"
-  do array.sort "false"
+
+def using_sort
+
                  #true
 end
 
-def using_reverse "a,b,c,d"
+def using_reverse
   a.reverse_inplace!
-  $ puts a 
-  dcba
+  puts a 
   end
 
-def using_first "a,b,c,d"
+def using_first
   use_the_first
   puts "a"
-  abcd
+
 end
 
-def using_last "a,b,c,d"
+def using_last
   using.last "d"
-  dcba
+
 end
 
 def using_size
