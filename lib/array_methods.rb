@@ -20,16 +20,10 @@ def using_first
 
 end
 
-def using_last
-  using.last "d"
+def 
 
 end
 
-def using_size
-  a = [18, 22, 33, nil, 5, 6]
- #declaring array 
- b = [1, 4, 1, 1, 88, 9]
- #size_method 
-"lenght (1) method form : #{a.lenght(1)}/n/n "
+def 
 
 end
